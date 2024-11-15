@@ -180,12 +180,12 @@ section h1 span{
 }
 
 .card .image img{
-    width: 130%;
+    width: 150%;
     transition: width 0.3s ease;
 }
 
 .card .image img:hover{
-    width: 150%;
+    width: 160%;
 }
 .card h2, .card p{
     color: black;
@@ -225,6 +225,12 @@ section h1 span{
     width: 7rem;
     text-align: center;
 }
+
+.media1:hover{
+    scale: 1;
+    transition: 0.3 ease;
+}
+
 .media{
     width: 7rem;
     height: 7rem;
