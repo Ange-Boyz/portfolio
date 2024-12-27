@@ -265,7 +265,7 @@ footer{
     position: absolute;
     top: 80px;
     width: 100vw;
-    background-color: rgba(0, 0, 0, 0.80);
+    background-color: rgba(0, 0, 0, 0.70);
     transition: 0.4s ease;
     height: 50vh;
    }
